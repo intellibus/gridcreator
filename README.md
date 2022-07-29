@@ -24,6 +24,9 @@
 ## Features ✨
 
 - Create Grids In BigParser `Planned`
+- Manage Grids in BigParser via Local .grid files `Planned`
+- Sync Grid Data Models with .grid files `Planned`
+- Typescript Support `Planned`
 
 ## Install 🛠
 
