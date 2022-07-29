@@ -5,10 +5,10 @@
   "description": "Automate Grid Creation In BigParser",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
-  "homepage": "https://github.com/intellibus/astroturtle#readme",
+  "homepage": "https://github.com/intellibus/gridcreator#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/intellibus/astroturtle.git"
+    "url": "https://github.com/intellibus/gridcreator.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
