@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "gridcreator",
-  "version": "1.0.75",
+  "version": "1.0.76",
   "description": "Automate Grid Creation In BigParser",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
